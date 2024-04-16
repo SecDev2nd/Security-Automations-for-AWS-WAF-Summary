@@ -67,9 +67,9 @@
     - **`ActivateSqlInjectionProtectionParam`**: SQL Injection 보호를 활성화합니다. 이 옵션은 SQL Injection 공격을 탐지하고 차단하는 보호 기능을 활성화합니다.
     - **`SqlInjectionProtectionSensitivityLevelParam`**: SQL Injection 보호의 민감도 수준을 설정합니다. 이 옵션은 SQL Injection 공격에 대한 감지의 엄격성 수준을 조절합니다.
     
-    소스코드
+    [소스코드](https://github.com/aws-solutionsaws-waf-security-automations.git)
     
-    https://github.com/aws-solutions/aws-waf-security-automations.git
+    
     
     ### 비용
     
@@ -100,7 +100,8 @@
     |  | 총계: 임베딩 및 LLM 포함 | $5,817.73/월 |
     
     자동화는 아니지만 다른 IaC Tool인 Terraform을 이용한 AWS WAF 사용 템플릿
-    
-    [https://github.com/aws-samples/aws-waf-automation-terraform-samples.git](https://github.com/aws-samples/aws-waf-automation-terraform-samples.git)
-    
-    [https://www.lgcns.com/blog/cns-tech/aws-ambassador/41298/](https://www.lgcns.com/blog/cns-tech/aws-ambassador/41298/)
+      
+    [aws-waf-automation-terraform-samples](https://github.com/aws-samples/aws-waf-automation-terraform-samples.git)    
+     
+          
+    [LG CNS - AWS WAFv2 in Terraform](https://www.lgcns.com/blog/cns-tech/aws-ambassador/41298/)  
